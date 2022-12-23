@@ -12,3 +12,5 @@
 
 "Taxi-v3 🚕" will need to learn to navigate a city to transport its passengers from point A to point B. [Taxi-v3 🚕](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit2/unit2.ipynb#scrollTo=RpOTtSt83kPZ)--->
 [Result 🤗](https://huggingface.co/MrDivakaruni/Taxi-v3)
+
+"Deep Q-Learning with Atari Games 👾 using RL Baselines3 Zoo" [Deep Q-Learning with Atari Games 👾 using RL Baselines3 Zoo](https://huggingface.co/deep-rl-course/unit3/hands-on?fw=pt) [Result 🤗](https://huggingface.co/MrDivakaruni/dqn-SpaceInvadersNoFrameskip-v4)
