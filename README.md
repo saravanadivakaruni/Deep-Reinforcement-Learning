@@ -1,6 +1,7 @@
 # Deep-Reinforcement-Learning
 
-"LunarLander" agent that will learn to land correctly on the Moon 🌕 using PPO architecture and MLpPolicy and the trained agent is uploaded into the Hugging Face Hub 🤗. [LunarLander](https://huggingface.co/deep-rl-course/unit1/hands-on?fw=pt) --->
+"LunarLander" agent that will learn to land correctly on the Moon 🌕 using PPO architecture and MLpPolicy and the trained agent is uploaded into the Hugging Face Hub 🤗. 
+[LunarLander](https://huggingface.co/deep-rl-course/unit1/hands-on?fw=pt) --->
 [Result 🤗](https://huggingface.co/MrDivakaruni/ppo-LunarLander-v2)
 
 "Huggy" the Dog to fetch the stick and then play with him directly in your browser 🐶 
