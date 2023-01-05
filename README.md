@@ -14,3 +14,7 @@
 [Result 🤗](https://huggingface.co/MrDivakaruni/Taxi-v3)
 
 "Deep Q-Learning with Atari Games 👾 using RL Baselines3 Zoo" This is a trained model of a DQN agent playing SpaceInvadersNoFrameskip-v4 using the stable-baselines3 library and the RL Zoo.[Deep Q-Learning with Atari Games 👾 using RL Baselines3 Zoo](https://huggingface.co/deep-rl-course/unit3/hands-on?fw=pt)--->[Result 🤗](https://huggingface.co/MrDivakaruni/dqn-SpaceInvadersNoFrameskip-v4)
+
+
+"Cartpole and PixelCopter 🚁" 
+[Code your first Deep Reinforcement Learning Algorithm with PyTorch: Reinforce. And test its robustness 💪](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit4/unit4.ipynb#scrollTo=CjRWziAVU2lZ)--->[Result 🤗](https://huggingface.co/MrDivakaruni/Reinforce-cartpole_policy)
