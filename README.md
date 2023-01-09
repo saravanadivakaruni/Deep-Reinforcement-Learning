@@ -20,3 +20,4 @@
 "Cartpole and PixelCopter 🚁" In this notebook,coded first Deep Reinforcement Learning algorithm from scratch: Reinforce also called Monte Carlo Policy Gradient.
 [Code your first Deep Reinforcement Learning Algorithm And test its robustness 💪](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit4/unit4.ipynb#scrollTo=CjRWziAVU2lZ)
 --->[Result 🤗](https://huggingface.co/MrDivakaruni/Reinforce-cartpole_policy)
+--->[Result 🤗](https://huggingface.co/MrDivakaruni/Reinforce-pixelcopter_policy)
