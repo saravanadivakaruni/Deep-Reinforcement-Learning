@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning
+# Deep-Reinforcement-Learning 
 
 "LunarLander" agent that will learn to land correctly on the Moon 🌕 using PPO architecture and MLpPolicy and the trained agent is uploaded into the Hugging Face Hub 🤗. 
 [LunarLander](https://huggingface.co/deep-rl-course/unit1/hands-on?fw=pt) --->
@@ -21,3 +21,9 @@
 [Code your first Deep Reinforcement Learning Algorithm And test its robustness 💪](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit4/unit4.ipynb#scrollTo=CjRWziAVU2lZ)
 --->[Result 🤗](https://huggingface.co/MrDivakaruni/Reinforce-cartpole_policy)
 --->[Result 🤗](https://huggingface.co/MrDivakaruni/Reinforce-pixelcopter_policy)
+
+
+"ML Agents: Snownball Target and Pyramids Training" In this notebook, The first one will learn to shoot snowballs onto spawning targets and The second need to press a button to spawn a pyramid, then navigate to the pyramid, knock it over,and move to the gold brick at the top.
+[Introduction to UNITY MLAgents](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit5/unit5.ipynb)
+--->[Result 🤗](https://singularite.itch.io/snowballtarget)
+--->[Result 🤗](https://singularite.itch.io/pyramids)
