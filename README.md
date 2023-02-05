@@ -1,15 +1,13 @@
 # Deep-Reinforcement-Learning #
 
 
-## The Deep Reinforcement Learning Course ##
-by HuggingFace 🤗 will teach about Deep Reinforcement Learning from beginner to expert:
+## The Deep Reinforcement Learning Course ## by HuggingFace 🤗 will teach about Deep Reinforcement Learning from beginner to expert:
 
 ### UNIT-1: 
 "LunarLander" agent that will learn to land correctly on the Moon using PPO architecture and MLpPolicy and the trained agent is uploaded into the Hugging Face Hub. 
 [LunarLander](https://huggingface.co/deep-rl-course/unit1/hands-on?fw=pt) --->
 [Result:](https://huggingface.co/MrDivakaruni/ppo-LunarLander-v2)
 
-### BONUS UNIT-1: 
 "Huggy" the Dog to fetch the stick and then play with him directly in your browser
 [Huggy](https://huggingface.co/deep-rl-course/unitbonus1/train?fw=pt) [Website:](https://huggingface.co/spaces/ThomasSimonini/Huggy)
 
