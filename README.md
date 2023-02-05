@@ -37,5 +37,6 @@ by HuggingFace 🤗 will teach about Deep Reinforcement Learning from beginner t
 
 ### UNIT-6
 "Advantage Actor Critic (A2C) using Robotics Simulations with PyBullet and Panda-Gym" In this notebook, trained A2C agent using Stable-Baselines3 in robotic environments. And train two robots: A spider to learn to move and A robotic arm to move in the correct position
-[]
+[Advantage Actor Critic (A2C) using Robotics Simulations with PyBullet and Panda-Gym](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit6/unit6.ipynb)
 --->[AntBulletEnv Result:](https://huggingface.co/MrDivakaruni/a2c-AntBulletEnv-v0/tree/main/)
+--->[PandaReachDense Result:](https://huggingface.co/MrDivakaruni/a2c-PandaReachDense-v2/tree/main/)
