@@ -26,16 +26,19 @@ by HuggingFace 🤗 will teach about Deep Reinforcement Learning from beginner t
 "Cartpole and PixelCopter" In this notebook,coded first Deep Reinforcement Learning algorithm from scratch: Reinforce also called Monte Carlo Policy Gradient.
 [Code your first Deep Reinforcement Learning Algorithm And test its robustness.](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit4/unit4.ipynb#scrollTo=CjRWziAVU2lZ)
 --->[Cartpole Result:](https://huggingface.co/MrDivakaruni/Reinforce-cartpole_policy)
+
 --->[Pixelcopter Result:](https://huggingface.co/MrDivakaruni/Reinforce-pixelcopter_policy)
 
 ### UNIT-5:
 "ML Agents: Snownball Target and Pyramids Training" In this notebook, The first one will learn to shoot snowballs onto spawning targets and The second need to press a button to spawn a pyramid, then navigate to the pyramid, knock it over,and move to the gold brick at the top.
 [Introduction to UNITY MLAgents](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit5/unit5.ipynb)
 --->[Snowball Taregt Result:](https://singularite.itch.io/snowballtarget)
+
 --->[Pyramid Training Result:](https://singularite.itch.io/pyramids)
 
 ### UNIT-6
 "Advantage Actor Critic (A2C) using Robotics Simulations with PyBullet and Panda-Gym" In this notebook, trained A2C agent using Stable-Baselines3 in robotic environments. And train two robots: A spider to learn to move and A robotic arm to move in the correct position
 [Advantage Actor Critic (A2C) using Robotics Simulations with PyBullet and Panda-Gym](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/notebooks/unit6/unit6.ipynb)
 --->[AntBulletEnv Result:](https://huggingface.co/MrDivakaruni/a2c-AntBulletEnv-v0/tree/main/)
+
 --->[PandaReachDense Result:](https://huggingface.co/MrDivakaruni/a2c-PandaReachDense-v2/tree/main/)
